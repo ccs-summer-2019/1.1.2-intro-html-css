@@ -54,8 +54,9 @@ We refer to these new elements as "semantic" because they use plain English to c
 * aside
 * footer
 
-HTML Reference 
+HTML Reference  
 https://developer.mozilla.org/en-US/docs/Web/HTML
+
  
 ## INTRODUCTION TO CSS
 

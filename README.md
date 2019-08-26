@@ -1,8 +1,8 @@
 ## Introduction to HTML
 
-`HTML` stands for "HyperText Markup Language". It acts as the skeleton of a web page, providing the underlying structure. `HTML` does not define either decorative or functional qualities of your page (like colors or animations). Instead, it uses "elements" to build up a scaffold of what you can style and interact with using other languages.
+HTML stands for "HyperText Markup Language". It acts as the skeleton of a web page, providing the underlying structure. HTML does not define either decorative or functional qualities of your page (like colors or animations). Instead, it uses "elements" to build up a scaffold of what you can style and interact with using other languages.
 
-`HTML` documents are composed of "elements". An element acts as a simple instruction to either display or prepare for a particular type of content. Some elements may be invisible and are used only for the benefit of your browser, while others display content, like text or images, on your web page.
+HTML documents are composed of "elements". An element acts as a simple instruction to either display or prepare for a particular type of content. Some elements may be invisible and are used only for the benefit of your browser, while others display content, like text or images, on your web page.
 
 Elements are composed of "tags". A tag is made up of an "opening bracket" (<), the name of the tag, and a closing bracket (>).
 
@@ -28,8 +28,7 @@ Some elements don't require content or a closing tag. We call these "empty eleme
  
  Web browsers implement what's called the Document Object Model as the basis for interpreting content (HTML, XML, SVG).
 
-The DOM is the interface we use to target elements and for watch for events.
-
+The DOM is the interface we use to target elements and for watch for events.  
 https://www.w3schools.com/js/js_htmldom.asp
 
 **Some common elements**
@@ -55,27 +54,30 @@ We refer to these new elements as "semantic" because they use plain English to c
 * aside
 * footer
 
-HTML Reference
+HTML Reference 
 https://developer.mozilla.org/en-US/docs/Web/HTML
  
 ## INTRODUCTION TO CSS
 
-CSS has a history of mixed support across the major browser vendors, though there's now a well-known CSS standard (W3C) that most vendors try to follow: https://www.w3.org/standards/techs/css#w3c_all
+CSS has a history of mixed support across the major browser vendors, though there's now a well-known CSS standard (W3C) that most vendors try to follow.  
+https://www.w3.org/standards/techs/css#w3c_all
 
 In web development, a polyfill is code that implements a feature on web browsers that do not support the feature.
 
-Can I Use?
+Can I Use?  
 https://caniuse.com/
 
 Browsers also apply what's referred to as a default style sheet that declares how elements should look when custom styles are not specified.
 
-It's commonplace to include a stylesheet called a "CSS reset": http://html5doctor.com/html-5-reset-stylesheet/
+It's commonplace to include a stylesheet called a "CSS reset".  
+http://html5doctor.com/html-5-reset-stylesheet/
 
-A modern, HTML5-ready alternative to CSS resets: https://necolas.github.io/normalize.css/
+A modern, HTML5-ready alternative to CSS resets.  
+https://necolas.github.io/normalize.css/
 
 A CSS rule is the actionable unit that CSS is written in and contains at least one selector (which specifies what the styles should be applied to) and one declaration (a statement made up of a property to target and a value to set that property to).
 
-CSS Reference
+CSS Reference  
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 
 Using CSS
